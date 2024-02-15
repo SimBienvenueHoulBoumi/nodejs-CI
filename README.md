@@ -7,3 +7,9 @@ setting up a CI/CD with deployment on docker-hub
 - Typeorm
 - docker
 - moteur de templates EJS
+
+# Command
+- deployment
+```bash
+  node dist/index.js
+```

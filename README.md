@@ -1,5 +1,5 @@
 # Projet
-setting up a CI/CD with deployment on docker-hub
+setting up a CI with deployment on docker-hub
 
 # Technology
 - Nodejs

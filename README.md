@@ -6,3 +6,4 @@ setting up a CI/CD with deployment on docker-hub
 - TypeScript
 - Typeorm
 - docker
+- moteur de templates EJS
